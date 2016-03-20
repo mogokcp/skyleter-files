@@ -1,9 +1,9 @@
 [
 	{	
-		"type":"info",
+		"type":"success",
 		"ip":"vps62061.vps.ovh.ca:443",
 		"gamemode":"Juggernaut",
 		"region":"NA",
-		"bot":"Semi-Protected"
+		"bot":"WORKING"
 	} 
 ]
