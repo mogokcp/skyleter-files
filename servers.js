@@ -1,10 +1,10 @@
 [
 	{	
-		"type":"success",
+		"type":"warning",
 		"ip":"vps62061.vps.ovh.ca:443",
 		"gamemode":"Juggernaut",
 		"region":"Play",
-		"bot":"WORKING"
+		"bot":"Packet errors :( - semiworking"
 	},
 	{	
 		"type":"success",
