@@ -1,6 +1,6 @@
 [
 	{	
-		"type":"warning",
+		"type":"danger",
 		"ip":"vps62061.vps.ovh.ca:443",
 		"gamemode":"Juggernaut",
 		"region":"Play",
@@ -14,11 +14,11 @@
 		"bot":"WORKING"
 	},
 	{	
-		"type":"info",
+		"type":"danger",
 		"ip":"parisgamma.iomods.com:1501",
 		"gamemode":"FFA [PARISGAMMA]",
 		"region":"Play",
-		"bot":"WORKING"
+		"bot":"Semiworking [Coordinate scrambler]"
 	},
 	{	
 		"type":"info",
