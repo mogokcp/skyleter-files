@@ -1,6 +1,6 @@
 [
 	{	
-		"color":"color: #1fa1df;",
-		"info":"Welcome to v2.2! Developed by skyleter."
+		"color":"color: red;",
+		"info":"Hello there! welcome to octbots 2.2! <br>Userscript is now at the canvas, if you dont see it try refreshing the page."
 	}
 ]
