@@ -21,6 +21,20 @@
 		"bot":"Semiworking [Coordinate scrambler]"
 	},
 	{	
+		"type":"success",
+		"ip":"93.188.163.216:4004",
+		"gamemode":"AGARIOHUB",
+		"region":"Play",
+		"bot":"WORKING"
+	},
+	{	
+		"type":"success",
+		"ip":"93.188.163.216:4005",
+		"gamemode":"AGARIOHUB 2",
+		"region":"Play",
+		"bot":"WORKING"
+	},
+	{	
 		"type":"info",
 		"ip":"75.74.28.26:3005",
 		"gamemode":"FFA",
